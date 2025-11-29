@@ -9,7 +9,7 @@ pip install plyer
 
 Run the script from the project directory:
 
-python3 latihan.py
+foldersense_ultimate.py
 
 
 Once executed, the script will display a system notification on your device.
